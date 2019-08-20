@@ -5,7 +5,6 @@ package="com.itxiaox.pluginlib">
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true">
-        <!--<activity android:name=".ProxyActivity"/>-->
-        <!--<activity android:name=".PluginActivity"/>-->
+        <activity android:name=".ProxyActivity"/>
     </application>
 </manifest>
